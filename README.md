@@ -1,2 +1,2 @@
-# browser
-The official GitHub repo for name tbd.
+# ZerdoBrowser
+The official GitHub repo for ZerdoBrowser.
